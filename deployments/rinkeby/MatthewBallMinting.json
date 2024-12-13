@@ -721,7 +721,7 @@
       },
       "setRoyaltyPayoutAddressForToken(uint256,address)": {
         "params": {
-          "newAddress": "new address to recieve royalty payout on-chain",
+          "newAddress": "new address to receive royalty payout on-chain",
           "tokenId": "token id to set royalty payout for"
         }
       },
