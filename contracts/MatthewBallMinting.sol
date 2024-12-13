@@ -129,7 +129,7 @@ contract MatthewBallMinting is Ownable, ERC721, RoyaltyConfig, ITokenContent {
     }
 
     /// @param tokenId token id to set royalty payout for
-    /// @param newAddress new address to recieve royalty payout on-chain
+    /// @param newAddress new address to receive royalty payout on-chain
     function setRoyaltyPayoutAddressForToken(
         uint256 tokenId,
         address newAddress
